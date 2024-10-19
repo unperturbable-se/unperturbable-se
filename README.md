@@ -1,6 +1,6 @@
 👋 Hi, I’m Raed Ovais, currently a student studying computer science at FAST NUCES Karachi.
 
-👀 I’m interested in Bioinformatics, Data Science, Digital Marketing and Content Writing.
+👀 I’m interested in Bioinformatics, Quantum Computers, Data Science, and Digital Marketing.
 
 🌱 I’m currently learning Web Development and c/c++.
 
