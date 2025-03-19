@@ -7,7 +7,7 @@ recently, I was learning C/c++
 
 💞️ I’m looking to collaborate on any long-term project that is interesting and out of my comfort zone.
 
-📫 How to reach me: gmail-->raedovais321@gmail.com
+📫 How to reach me: email-->contact@raed-ovais.com
 
 😄 Pronouns: He/Him (obviously)
 
