@@ -2,8 +2,8 @@
 
 👀 I’m interested in Game Development ,Bioinformatics, Quantum Computers, Data Science, and Digital Marketing.
 
-🌱 I’m currently learning Web Development, and game designing using pygame.
-recently, I was learning C/c++
+🌱 I’m currently learning game designing using godot,openCL/sycl, and OpenGL.
+recently, I was doing a project in sfml.
 
 💞️ I’m looking to collaborate on any long-term project that is interesting and out of my comfort zone.
 
